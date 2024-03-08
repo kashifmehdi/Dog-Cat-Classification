@@ -1,3 +1,14 @@
+<div align="center">
+    <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3.8%2B-14354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-1.20%2B-013243.svg?logo=numpy&logoColor=white"></a>
+    <a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-1.2%2B-150458.svg?logo=pandas&logoColor=white"></a>
+    <a href="https://matplotlib.org/"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-3.4%2B-11557C.svg?logo=matplotlib&logoColor=white"></a>
+    <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-1.0%2B-F37726.svg?logo=jupyter&logoColor=white"></a>
+    <a href="https://www.tensorflow.org/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-2.7.0-%23FF6F00"></a>
+
+
+</div>
+
 # 🐶🐱 Dog & Cat Classification Project 🖼️
 
 ## Description
